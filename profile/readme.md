@@ -2,3 +2,8 @@
 <h3 align="center">new unified & privacy-centric mobile OS</h3>
 <h1 align="center">🔒Privacy</a> 
 <h3 align="center">special security systems have been designed for OS to ensure security.</h3>
+<h3 align="center">Wire-Conf, Saykonf, AES-shield, DPMS</h3>
+<h1 align="center">📦DPM</a> 
+<h3 align="center">Dolboeb Package Manager</h3>
+<h3 align="center"></h3>
+<h3 align="center"></h3>
