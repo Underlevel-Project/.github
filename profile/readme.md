@@ -1,5 +1,5 @@
 <h1 align="center">Underlevel</a> 
-<h1 align="center">Deprecated! Use our gogs: [gogs](https://underlevel.servebeer.com/git/underlevel)</a> 
+<h1 align="center">Deprecated! Use our gogs: [gogs](https://underlevel.ddns.net/git/underlevel)</a> 
 <h3 align="center">new unified & privacy-centric mobile OS</h3>
 <h1 align="center">🔒Privacy</a> 
 <h3 align="center">special security systems have been designed for OS to ensure security.</h3>
